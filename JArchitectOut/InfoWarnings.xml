@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<InfoWarnings>
+  <Info>04/27/2014 12:52:41 Begin full analysis with JArchitect v4.0.0.8041</Info>
+  <Info>No Baseline for Comparison loaded.</Info>
+  <Info>Bytecode parsing</Info>
+  <Warning>No classes founds for project:gameoflife-build under output directory:C:\Users\Amine\game-of-life\gameoflife-build; please check if the project was built</Warning>
+  <Warning>No classes founds for project:gameoflife-web under output directory:C:\Users\Amine\game-of-life\gameoflife-web; please check if the project was built</Warning>
+  <Info>Third Party parsing</Info>
+  <Info>Parsing Source Files</Info>
+  <Info>No dependency cycle detected in assemblies referencement graph.</Info>
+  <Info>04/27/2014 12:52:43 Analyse dependencies of your application.</Info>
+  <Info>04/27/2014 12:52:44 Building the report (standard).</Info>
+  <Warning>4 critical rules are violated.
+  - Prefer primitive types to boxed primitives
+  - Always override toString
+  - Use interfaces only to define types
+  - Avoid using raw types</Warning>
+</InfoWarnings>
